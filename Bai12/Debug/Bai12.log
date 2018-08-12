@@ -1,0 +1,5 @@
+﻿  CDiemHocPhan.cpp
+d:\source\repos\bai12\bai12\cdiemhocphan.cpp(6): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Bai12.cpp
+  Generating Code...
+  Bai12.vcxproj -> D:\source\repos\Bai12\Debug\Bai12.exe
